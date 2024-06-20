@@ -1,0 +1,100 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Alish</title>
+  <subtitle>A simple personal blog of an AI researcher and tech nerd!</subtitle>
+  <updated>2024-06-20T19:14:05+09:30</updated>
+  <author>
+    <name>Ali Shakeri</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  <rights> © 2024 Ali Shakeri </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>The Second Test</title>
+    <link href="http://localhost:4000/posts/the-second-test/" rel="alternate" type="text/html" title="The Second Test" />
+    <published>2024-06-20T18:37:00+09:30</published>
+  
+    <updated>2024-06-20T18:37:00+09:30</updated>
+  
+    <id>http://localhost:4000/posts/the-second-test/</id>
+    <content src="http://localhost:4000/posts/the-second-test/" />
+    <author>
+      <name>ali</name>
+    </author>
+
+  
+    
+    <category term="Test" />
+    
+  
+
+  <summary>The second test</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>The Test Post</title>
+    <link href="http://localhost:4000/posts/the-test-post/" rel="alternate" type="text/html" title="The Test Post" />
+    <published>2024-06-20T18:20:00+09:30</published>
+  
+    <updated>2024-06-20T18:20:00+09:30</updated>
+  
+    <id>http://localhost:4000/posts/the-test-post/</id>
+    <content src="http://localhost:4000/posts/the-test-post/" />
+    <author>
+      <name>ali</name>
+    </author>
+
+  
+    
+    <category term="Test" />
+    
+  
+
+  <summary>This is a test post
+
+Hello from testing post!</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>A Journey Begins</title>
+    <link href="http://localhost:4000/posts/a-journey-begins/" rel="alternate" type="text/html" title="A Journey Begins" />
+    <published>2023-06-23T21:30:00+09:30</published>
+  
+    <updated>2023-06-23T21:30:00+09:30</updated>
+  
+    <id>http://localhost:4000/posts/a-journey-begins/</id>
+    <content src="http://localhost:4000/posts/a-journey-begins/" />
+    <author>
+      <name>ali</name>
+    </author>
+
+  
+    
+    <category term="Journal" />
+    
+  
+
+  <summary>The following is a summary of my hard, but rewarding journey to become an AI/ML researcher in form of a short story. Sharing this story with you is a starting point of my blogging journey to talk about what I’ve learnt and show that if you have a dream, no matter how challenging or unreachable it may seem, you can make it happen. Have tested it and it works, believe me! ;)
+
+
+Hello World! A phra...</summary>
+
+  </entry>
+
+</feed>
+
+
