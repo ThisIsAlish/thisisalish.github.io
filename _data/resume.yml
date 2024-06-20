@@ -1,0 +1,30 @@
+publications:
+  - title: "Transforming Data Product Generation through Federated Learning: An Exploration of FL Applications in Data Ecosystems"
+    publication: "The IEEE International Conference on Web Services (ICWS)"
+    date: "2024"
+
+
+education:
+  - institution: "Australian Institute for Machine Learning (AIML)"
+    degree: "PhD Student"
+    date: "2023 - Present"
+  - institution: "University of Adelaide"
+    degree: "Master’s Degree in Machine Learning"
+    date: "2020 - 2022"
+  - institution: "Shiraz University"
+    degree: "Bachelor of Business Management Administration (BBA)"
+    date: "2014 - 2018"
+
+experience:
+  - company: "University of Adelaide"
+    position: "Teacher Assistant"
+    date: "2022 - Present"
+  - company: "Clarity Global"
+    position: "Machine Learning Engineer"
+    date: "2022 - 2023"
+  - company: "Australian Institute for Machine Learning (AIML)"
+    position: "Research Intern"
+    date: "2022 - 2022"
+  - company: "Australian Institute for Machine Learning (AIML)"
+    position: "Research Intern"
+    date: "2021 - 2022"
