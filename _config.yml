@@ -41,9 +41,10 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/_thisisalish # change to your twitter homepage
     - https://github.com/ThisIsAlish # change to your github homepage
+    - https://www.linkedin.com/in/ThisIsAlish
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/ThisIsAlish
+    # - https://www.linkedin.com/in/ThisIsAlish
 
 # Site Verification Settings
 webmaster_verifications:
